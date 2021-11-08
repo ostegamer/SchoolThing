@@ -12,13 +12,13 @@ bot.once('ready', () => {
 
 bot.on('message', message => {
     if(message.content === "HELLO"){
-        message.reply('Hello ;)');
+        message.reply('you are a nigger ;)');
     }
     })
 
     bot.on('message', message => {
         if(message.content === "Fuck you"){
-            message.reply('No you');
+            message.reply('No you fag');
         }
         })
         
